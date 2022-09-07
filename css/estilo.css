@@ -1,0 +1,32 @@
+.facebook {
+  color: red; }
+
+.instagram {
+  color: orange; }
+
+.twitter {
+  color: blue; }
+
+.pepelepu {
+  background-color: red;
+  font-size: 30px; }
+
+header {
+  background-color: aqua;
+  display: flex;
+  align-items: center;
+  justify-content: space-between; }
+  header h1 {
+    color: red; }
+  header nav {
+    background-color: beige; }
+    header nav li {
+      display: inline-block; }
+      header nav li a {
+        text-decoration: none;
+        color: green;
+        text-transform: uppercase;
+        font-weight: bold;
+        font-size: 1.5rem; }
+        header nav li a :hover {
+          background-color: antiquewhite; }
